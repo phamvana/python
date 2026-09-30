@@ -77,9 +77,9 @@ Xây dựng nền tảng cho quá trình học:
 - `03-task-management.md`
 - `04-progress.md`
 
-### Trạng thái
+### Tiến độ
 
-TODO
+[→ Xem tiến độ Phase 0](./04-progress.md#5-phase-0--learning-foundation)
 
 ---
 
@@ -139,9 +139,9 @@ Một chương trình tổng hợp sử dụng:
 - điều kiện;
 - vòng lặp.
 
-### Trạng thái
+### Tiến độ
 
-TODO
+[→ Xem tiến độ Level 1](./04-progress.md#6-level-1--python-basic)
 
 ---
 
@@ -189,9 +189,9 @@ Người học có thể:
 
 Một chương trình dòng lệnh gồm nhiều chức năng được tổ chức bằng function.
 
-### Trạng thái
+### Tiến độ
 
-TODO
+[→ Xem tiến độ Level 2](./04-progress.md#7-level-2--control-flow--function)
 
 ---
 
@@ -256,9 +256,9 @@ Người học có thể lựa chọn cấu trúc dữ liệu phù hợp và x�
 
 Xử lý danh sách và dữ liệu dạng dictionary trong một chương trình thực tế nhỏ.
 
-### Trạng thái
+### Tiến độ
 
-TODO
+[→ Xem tiến độ Level 3](./04-progress.md#8-level-3--string--collections)
 
 ---
 
@@ -302,9 +302,9 @@ Người học có thể:
 
 Một chương trình được tổ chức thành nhiều module và class cơ bản.
 
-### Trạng thái
+### Tiến độ
 
-TODO
+[→ Xem tiến độ Level 4](./04-progress.md#9-level-4--modules--classes)
 
 ---
 
@@ -349,9 +349,9 @@ Người học có thể thiết kế chương trình có cấu trúc tốt hơn
 
 Một ứng dụng quản lý nhỏ sử dụng class, inheritance và exception handling.
 
-### Trạng thái
+### Tiến độ
 
-TODO
+[→ Xem tiến độ Level 5](./04-progress.md#10-level-5--oop--exception)
 
 ---
 
@@ -403,9 +403,9 @@ Người học có thể:
 
 Một ứng dụng Python lưu trữ và xử lý dữ liệu từ file, có test cơ bản.
 
-### Trạng thái
+### Tiến độ
 
-TODO
+[→ Xem tiến độ Level 6](./04-progress.md#11-level-6--file--testing)
 
 ---
 
