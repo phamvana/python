@@ -100,7 +100,7 @@ Roadmap có thể được điều chỉnh khi quá trình học thực tế cho
 
 # 5. Phase 0 — Learning Foundation
 
-**Trạng thái:** IN PROGRESS
+**Trạng thái:** PASS
 
 ## Mục tiêu
 
@@ -124,12 +124,12 @@ Thiết lập nền tảng cho repository học Python:
 
 ## Acceptance Criteria
 
-- [ ] Hoàn thành bộ tài liệu Phase 0.
-- [ ] Kiểm tra cấu trúc repository.
-- [ ] Kiểm tra Git status.
-- [ ] Commit Phase 0.
-- [ ] Push lên GitHub.
-- [ ] Xác nhận repository sạch sau commit.
+- [x] Hoàn thành bộ tài liệu Phase 0.
+- [x] Kiểm tra cấu trúc repository.
+- [x] Kiểm tra Git status.
+- [x] Commit Phase 0.
+- [x] Push lên GitHub.
+- [x] Xác nhận repository sạch sau commit.
 
 ---
 
