@@ -115,12 +115,12 @@ Thiết lập nền tảng cho repository học Python:
 
 ## Documents
 
-| Document                | Trạng thái  |
-| ----------------------- | ----------- |
-| `01-python-roadmap.md`  | PASS        |
-| `02-learning-rules.md`  | PASS        |
-| `03-task-management.md` | PASS        |
-| `04-progress.md`        | IN PROGRESS |
+| Document                | Trạng thái |
+| ----------------------- | ---------- |
+| `01-python-roadmap.md`  | PASS       |
+| `02-learning-rules.md`  | PASS       |
+| `03-task-management.md` | PASS       |
+| `04-progress.md`        | PASS       |
 
 ## Acceptance Criteria
 
@@ -428,9 +428,9 @@ BLOCKED được ghi lại để biết những vấn đề từng ngăn cản q
 
 Milestone là những mốc quan trọng trong quá trình học.
 
-| Ngày       | Milestone                                  | Trạng thái  |
-| ---------- | ------------------------------------------ | ----------- |
-| 2026-09-30 | Thiết lập hệ thống quản lý việc học Python | IN PROGRESS |
+| Ngày       | Milestone                                  | Trạng thái |
+| ---------- | ------------------------------------------ | ---------- |
+| 2026-09-30 | Thiết lập hệ thống quản lý việc học Python | PASS       |
 
 Các milestone có thể bao gồm:
 
