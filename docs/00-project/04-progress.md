@@ -135,7 +135,7 @@ Thiết lập nền tảng cho repository học Python:
 
 # 6. Level 1 — Python Basic
 
-**Trạng thái:** TODO
+**Trạng thái:** IN PROGRESS
 
 ## Mục tiêu
 
@@ -174,7 +174,9 @@ Xây dựng nền tảng Python cơ bản.
 
 ## Trạng thái TASK
 
-Chưa tạo TASK.
+| TASK | Trạng thái | Ghi chú |
+|---|---|---|
+| TASK-01 — Python Foundation | IN PROGRESS | Học, thực hành, Self-Test, Review và documentation hoàn thành; Git commit còn lại. |
 
 ---
 
@@ -443,6 +445,37 @@ Các milestone có thể bao gồm:
 ---
 
 # 17. Progress Update Log
+
+### 2026-10-01
+
+**Đã hoàn thành**
+
+- Bắt đầu TASK-01 — Python Foundation.
+- Hoàn thành học và thực hành biến, kiểu dữ liệu, type(), ép kiểu, cú pháp và debugging.
+- Self-Test đạt cả 5 phần; AC-01 đến AC-08 đã được review trong buổi học.
+
+**Đang thực hiện**
+
+- Git commit cho các thay đổi của TASK-01.
+
+**Vấn đề**
+
+- Không có.
+
+**Điều đã học**
+
+- Bytecode là mã lệnh trung gian; PVM thực thi bytecode.
+- Kiểu dữ liệu gắn với giá trị; type() dùng để kiểm tra kiểu.
+- bool() xét giá trị truthy/falsy; chuỗi "False" không rỗng nên là True.
+- Cách đọc SyntaxError, tìm lỗi cú pháp, sửa và chạy lại.
+
+**Điều cần cải thiện**
+
+- Tiếp tục thực hành tự viết và chạy chương trình trong repository để củng cố độ chính xác cú pháp.
+
+**Bước tiếp theo**
+
+- Kiểm tra diff và commit các thay đổi của TASK-01.
 
 Mỗi mốc quan trọng có thể ghi lại một Progress Update.
 
