@@ -123,7 +123,7 @@ Thứ tự dưới đây dùng làm khung để chia TASK, không bắt buộc m
 | Module | Trọng tâm | TASK / trạng thái |
 |---|---|---|
 | Module 1 — Python Foundation | Mô hình thực thi, biến, kiểu dữ liệu, cú pháp và debugging cơ bản | TASK-01 — PASS |
-| Module 2 — Expressions & Operators | Biểu thức, toán tử và các khác biệt quan trọng khi chuyển từ C sang Python | TASK-02 — TODO |
+| Module 2 — Expressions & Operators | Biểu thức, toán tử và các khác biệt quan trọng khi chuyển từ C sang Python | TASK-02 — PASS |
 | Module 3 — Conditions | Biểu thức điều kiện, if/elif/else và bài toán rẽ nhánh | Dự kiến |
 | Module 4 — Loops | for, while, range, accumulator và kiểm soát vòng lặp | Dự kiến; chú ý đánh giá while |
 | Module 5 — Problem Solving | Phân rã bài toán và Mini Project tổng hợp Level 1 | Dự kiến |

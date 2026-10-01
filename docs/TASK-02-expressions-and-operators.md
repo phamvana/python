@@ -5,7 +5,7 @@
 - **Tên:** Expressions & Operators — C to Python
 - **Level:** Level 1 — Python Basic
 - **Module:** Module 2 — Expressions & Operators
-- **Trạng thái:** IN PROGRESS
+- **Trạng thái:** PASS
 - **Ngày bắt đầu:** 2026-10-01
 - **TASK trước:** TASK-01 — Python Foundation
 - **TASK sau:** Dự kiến TASK-03 — Conditions
@@ -183,14 +183,14 @@ Thực hiện không xem lời giải trước, gồm:
 | Self-Test | PASS |
 | Review | PASS |
 | Documentation cuối TASK | PASS |
-| Git Commit | TODO |
+| Git Commit | PASS |
 | Progress Update | PASS |
-| **TASK-02** | **IN PROGRESS** |
+| **TASK-02** | **PASS** |
 
 ---
 
 ## 11. Kết quả
 
-**IN PROGRESS**
+**PASS**
 
 Chỉ chuyển sang **PASS** sau khi hoàn thành Acceptance Criteria, Self-Test, Review, documentation, Git và Progress Update.

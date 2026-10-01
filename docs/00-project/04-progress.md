@@ -177,7 +177,7 @@ Xây dựng nền tảng Python cơ bản.
 | TASK | Trạng thái | Ghi chú |
 |---|---|---|
 | TASK-01 — Python Foundation | PASS | Hoàn thành học, thực hành, Self-Test, Review, documentation và Git. |
-| TASK-02 — Expressions & Operators: C to Python | IN PROGRESS | Học, thực hành, Self-Test, Review và documentation đạt; Git commit còn lại. |
+| TASK-02 — Expressions & Operators: C to Python | PASS | Hoàn thành học, thực hành, Self-Test, Review, documentation và Git. |
 
 ---
 
@@ -460,7 +460,7 @@ Các milestone có thể bao gồm:
 
 **Đang thực hiện**
 
-- Kiểm tra diff và Git commit cho TASK-02.
+- Chưa có.
 
 **Vấn đề**
 
@@ -480,7 +480,7 @@ Các milestone có thể bao gồm:
 
 **Bước tiếp theo**
 
-- Kiểm tra diff, commit và push TASK-02 theo quy trình.
+- Thiết kế TASK-03 — Conditions dựa trên kết quả học và nhu cầu thực hành.
 
 Mỗi mốc quan trọng có thể ghi lại một Progress Update.
 
