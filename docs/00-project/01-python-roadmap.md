@@ -116,6 +116,20 @@ Nắm được nền tảng ngôn ngữ Python và có thể viết các chươn
 - biến tích lũy
 - các bài toán cơ bản
 
+### Phân bổ TASK đề xuất cho Level 1
+
+Thứ tự dưới đây dùng làm khung để chia TASK, không bắt buộc mỗi chủ đề phải có một TASK riêng. Nội dung đã được chứng minh trong Entry Assessment hoặc TASK trước có thể được kiểm tra ngắn để xác nhận, không cần học lại toàn bộ.
+
+| Module | Trọng tâm | TASK / trạng thái |
+|---|---|---|
+| Module 1 — Python Foundation | Mô hình thực thi, biến, kiểu dữ liệu, cú pháp và debugging cơ bản | TASK-01 — PASS |
+| Module 2 — Expressions & Operators | Biểu thức, toán tử và các khác biệt quan trọng khi chuyển từ C sang Python | TASK-02 — TODO |
+| Module 3 — Conditions | Biểu thức điều kiện, if/elif/else và bài toán rẽ nhánh | Dự kiến |
+| Module 4 — Loops | for, while, range, accumulator và kiểm soát vòng lặp | Dự kiến; chú ý đánh giá while |
+| Module 5 — Problem Solving | Phân rã bài toán và Mini Project tổng hợp Level 1 | Dự kiến |
+
+Input/output cơ bản được tích hợp vào các bài thực hành khi cần, thay vì mặc định tách thành một TASK riêng, vì nội dung này đã có trong Entry Assessment. Phân bổ này có thể điều chỉnh theo kết quả học và Self-Test.
+
 ### Kết quả mong đợi
 
 Người học có thể:

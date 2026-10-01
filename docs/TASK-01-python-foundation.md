@@ -5,10 +5,10 @@
 - **Tên:** Python Foundation
 - **Level:** Level 1 — Python Basic
 - **Module:** Module 1 — Python Foundation
-- **Trạng thái:** IN PROGRESS
+- **Trạng thái:** PASS
 - **Ngày bắt đầu:** 2026-10-01
 - **TASK trước:** Entry Assessment
-- **TASK sau:** Chưa xác định
+- **TASK sau:** TASK-02 — Expressions & Operators: C to Python
 - **Tài liệu tham khảo chính:** W3Schools Python Tutorial
 
 ---

@@ -177,6 +177,7 @@ Xây dựng nền tảng Python cơ bản.
 | TASK | Trạng thái | Ghi chú |
 |---|---|---|
 | TASK-01 — Python Foundation | PASS | Hoàn thành học, thực hành, Self-Test, Review, documentation và Git. |
+| TASK-02 — Expressions & Operators: C to Python | IN PROGRESS | Học, thực hành, Self-Test, Review và documentation đạt; Git commit còn lại. |
 
 ---
 
@@ -453,10 +454,13 @@ Các milestone có thể bao gồm:
 - Bắt đầu TASK-01 — Python Foundation.
 - Hoàn thành học và thực hành biến, kiểu dữ liệu, type(), ép kiểu, cú pháp và debugging.
 - Self-Test đạt cả 5 phần; AC-01 đến AC-08 đã được review trong buổi học.
+- Thiết kế phạm vi TASK-02 theo nền tảng C và kết quả Entry Assessment.
+- Bắt đầu thực hành TASK-02 về biểu thức số học.
+- Hoàn thành thực hành và Self-Test Task-02; Review đạt sau khi chỉnh đúng quy tắc chia số nguyên C.
 
 **Đang thực hiện**
 
-- Chưa có.
+- Kiểm tra diff và Git commit cho TASK-02.
 
 **Vấn đề**
 
@@ -468,6 +472,7 @@ Các milestone có thể bao gồm:
 - Kiểu dữ liệu gắn với giá trị; type() dùng để kiểm tra kiểu.
 - bool() xét giá trị truthy/falsy; chuỗi "False" không rỗng nên là True.
 - Cách đọc SyntaxError, tìm lỗi cú pháp, sửa và chạy lại.
+- Toán tử Python tương ứng với C; Python floor division và modulo khác phép chia số nguyên C khi số âm.
 
 **Điều cần cải thiện**
 
@@ -475,7 +480,7 @@ Các milestone có thể bao gồm:
 
 **Bước tiếp theo**
 
-- Bắt đầu thiết kế và thực hiện TASK-02 theo roadmap.
+- Kiểm tra diff, commit và push TASK-02 theo quy trình.
 
 Mỗi mốc quan trọng có thể ghi lại một Progress Update.
 
